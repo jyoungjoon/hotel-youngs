@@ -31,7 +31,11 @@ Please check out installation section on this README before running the applicat
 
 ## Installation
 
-You will have to run this program in your terminal.
+You can simply visit the following link for live view of the page: https://jyoungjoon.github.io/hotel-youngs/
+
+OR
+
+You can run this program in your terminal.
 
 First, to install necessary dependencies, run the following command:
 
